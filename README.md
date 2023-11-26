@@ -1,4 +1,4 @@
-# repo1
-This is my first repository.
-Author - Venkat Krishna
-Date - 26/11/2023
+# repo1 <br>
+This is my first repository. <br>
+Author - Venkat Krishna <br>
+Date - 26/11/2023 <br>
